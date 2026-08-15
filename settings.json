@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Headstealerserver.aternos.me',
+    "ip": "Headstealerserver.aternos.me,
     "port": 25561,
     "version": "1.21.1"
   },
